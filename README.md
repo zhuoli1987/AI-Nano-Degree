@@ -27,5 +27,6 @@ A project that builds a dog breed identifier using [CNN](https://en.wikipedia.or
 A project that builds a text generator using [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network). The generator will first be trained with all Sherlock Holmes novels and generates new novels pieces.
 
 ## AIND-Capstone
+A project that combines all the  knowledge of computer vision techniques and deep learning to build and end-to-end facial keypoint recognition system. 
 
 
